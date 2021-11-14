@@ -20,11 +20,11 @@ public abstract class TestBase {
 
     }
 
-    @AfterClass
-    public void teardown(){
-        driver.close();
-
-    }
+//    @AfterClass
+//    public void teardown(){
+//        driver.close();
+//
+//    }
 
 
 }
